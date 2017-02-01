@@ -11,7 +11,7 @@ _Stand: Januar 2017_
 
 (1) Zweck dieser Satzung ist es, die vorhandenen Informationen bei den mit Aufgaben der öffentlichen Verwaltung befassten Stellen der Kommune auf der Internetseite der Kommune nach § 3 zu veröffentlichen und für die Zugänglichmachung nach § 4 die Voraussetzungen und das Verfahren zu regeln. Dadurch sollen über die bestehenden Informationsmöglichkeiten hinaus, Transparenz in Politik und Verwaltung sowie die Meinungs- und Willensbildung und die demokratischen Beteiligungsmöglichkeiten der Einwohnerinnen und Einwohner in der Kommune gefördert und eine bessere Kontrolle behördlichen Handelns ermöglicht werden.
 
-(2) Von der Satzung betroffen sind ausschließlich Informationen in Angelegenheiten des eigenen Wirkungskreises der Kommune.2Umfasst sind auch Informationen der von der Kommune verwalteten Anstalten des öffentlichen Rechts, der Eigenbetriebe sowie der ganz oder teilweise im Besitz der Kommune befindlichen Unternehmen, unabhängig von deren Rechtsform.
+(2) Von der Satzung betroffen sind ausschließlich Informationen in Angelegenheiten des eigenen Wirkungskreises der Kommune. Umfasst sind auch Informationen der von der Kommune verwalteten Anstalten des öffentlichen Rechts, der Eigenbetriebe sowie der ganz oder teilweise im Besitz der Kommune befindlichen Unternehmen, unabhängig von deren Rechtsform.
 
 (3) Das Recht auf Einsicht in oder Auskunft über den Inhalt der von der Kommune geführten Akten kann nicht durch Rechtsgeschäft ausgeschlossen oder beschränkt werden.
 
