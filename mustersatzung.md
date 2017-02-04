@@ -96,7 +96,7 @@ Sollen personenbezogene Daten nach Satz 1 Nrn. 2 bis 5 veröffentlicht oder soll
 
 (2) Rechtsträger kann auch eine öffentliche Stelle sein.
 
-(3) Sollen nach Betriebs- und Geschäftsgeheimnisse nach § 3  veröffentlicht werden oder soll Zugang zu solchen Geheimnissen nach § 4 gewährt werden, so hat die nach § 3 veröffentlichungs- oder nach § 4 auskunftspflichtige Stelle der oder dem Betroffenen vorher Gelegenheit zur schriftlichen Stellungnahme zu geben. _Kommune_ ist bei ihrer Entscheidung an diese Stellungnahme nicht gebunden.
+(3) Sollen nach Betriebs- und Geschäftsgeheimnisse nach § 3  veröffentlicht werden oder soll Zugang zu solchen Geheimnissen nach § 4 gewährt werden, so hat die nach § 3 veröffentlichungs- oder nach § 4 auskunftspflichtige Stelle der oder dem Betroffenen vorher Gelegenheit zur schriftlichen Stellungnahme zu geben. Die _Kommune_ ist bei ihrer Entscheidung an diese Stellungnahme nicht gebunden.
 
 
 ## § 8 Schutz öffentlicher Belange, der Rechtsdurchsetzung und des behördlichen Entscheidungsbildungsprozesses {#entscheidungsbildungsprozess}
