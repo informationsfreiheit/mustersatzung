@@ -21,13 +21,13 @@ _Stand: Januar 2017_
 Jede natürliche und juristische Person des Privatrechts hat nach Maßgabe dieser Satzung Zugang zu Informationen nach § 1 Abs. 1 und 2. Der Informationsanspruch nach Satz 1 gilt für Personenvereinigungen entsprechend.
 
 
-## § 3 Veröffentlichungspflicht {#veröffentlichungspflicht}
+## § 3 Veröffentlichungspflicht {#veroeffentlichungspflicht}
 
 (1) Um den Aufwand individueller Antragstellung und Antragserledigung nach §§ 4 und 5 möglichst gering zu halten, veröffentlicht die _Kommune_ so weit wie möglich alle Informationen von öffentlichem Interesse auf ihrer Internetseite, einschließlich Informationen ihrer Einrichtungen gemäß § 1 Abs. 2, unter Maßgabe der §§ 6 bis 9.
 
 (2) Die _Kommune_ veröffentlicht nach Abs. 1 insbesondere
 
-* Tagesordnungen des Gemeinderats* und seiner Ausschüsse,
+* Tagesordnungen des _Gemeinderats_ und seiner Ausschüsse,
 * in öffentlicher Sitzung gefasste Beschlüsse,
 * Protokolle und Unterlagen öffentlicher Sitzungen,
 * Verträge,
@@ -47,9 +47,6 @@ Jede natürliche und juristische Person des Privatrechts hat nach Maßgabe diese
 * die wesentlichen Regelungen erteilter Baugenehmigungen und -vorbescheide.
 
 Der Veröffentlichungspflicht nach Satz 1 unterliegen auch die Unterlagen über die von der _Kommune_ geplanten und durchgeführten Bauvorhaben, ebenso Entscheidungen in Gerichtsverfahren, an denen die _Kommune_ beteiligt ist und die wesentlichen Unternehmensdaten der Beteiligungen der _Kommune_ einschließlich der Darstellung der jährlichen Vergütungen und Nebenleistungen für die Leitungsebene sowie alle weiteren Informationen von öffentlichem Interesse.
-
-* Gemeinderats/Kreistags/Bezirkstags
-
 
 ## § 4 Informationszugang auf Antrag {#informationszugang}
 
@@ -126,9 +123,8 @@ Wenn nur Teile der begehrten Information den Schutzbestimmungen der §§ 6 bis 8
 
 (1) Die _Kommune_ bestellt eine Informationsfreiheitsbeauftragte oder einen Informationsfreiheitsbeauftragten. An die Informationsfreiheitsbeauftragte oder den Informationsfreiheitsbeauftragten kann sich jede Person wenden, die der Ansicht ist, dass ihre von dieser Satzung gewährten Rechte nicht oder nicht vollständig beachtet worden sind. Auf die Möglichkeit der Anrufung der oder des Informationsfreiheitsbeauftragten hat die nach § 4 auskunftspflichtige Stelle hinzuweisen. Weitere Rechte der Person bleiben durch die Anrufung der oder des Informationsfreiheitsbeauftragten unberührt.
 
-(2) Im Fall des Abs. 1 Satz 2 hat die oder der Informationsfreiheitsbeauftragte das Recht sich direkt an den Bürgermeister* zu wenden. Sie oder er veröffentlicht über die Art und Weise der Umsetzung dieser Satzung einen Bericht. Gibt es in der _Kommune_ eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten, soll diese oder dieser mit der Aufgabe betraut werden.
+(2) Im Fall des Abs. 1 Satz 2 hat die oder der Informationsfreiheitsbeauftragte das Recht sich direkt an den _Bürgermeister_ zu wenden. Sie oder er veröffentlicht über die Art und Weise der Umsetzung dieser Satzung einen Bericht. Gibt es in der _Kommune_ eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten, soll diese oder dieser mit der Aufgabe betraut werden.
 
-* Oberbürgermeister/erster Bürgermeister/Landrat/Bezirkstagspräsident
 
 ## § 11 Verhältnis zu anderen Informationszugangsrechten {#andere}
 
