@@ -22,7 +22,7 @@ _Stand: Mai 2017_
 
 betreffen, sind sie nicht Gegenstand dieser Satzung. Satz 1 gilt auch, wenn Informationen einem Berufs- oder besonderem Amtsgeheimnis unterliegen. Name, Titel, akademischer Grad, Berufs- und Funktionsbezeichnung, Büroanschrift und -telekommunikationsdaten gelten nicht als personenbezogene Daten im Sinne des Satzes 1 Nr. 1, wenn die oder der Betroffene als Funktionsträgerin oder Funktionsträger der nach § 3 veröffentlichungs- oder nach § 4 auskunftspflichtigen Stelle in amtlicher Funktion an dem jeweiligen Vorgang mitgewirkt hat.
 
-(4) Das Recht auf Einsicht in oder Auskunft nach dieser Satzung über den Inhalt der von _der Gemeinde_ geführten Akten kann nicht durch Rechtsgeschäft ausgeschlossen oder beschränkt werden.
+(4) Das Recht auf Einsicht oder Auskunft nach dieser Satzung in oder über den Inhalt der von _der Gemeinde_ geführten Akten kann nicht durch Rechtsgeschäft ausgeschlossen oder beschränkt werden.
 
 ## § 2 Grundsatz {#informationsfreiheit}
 
@@ -86,7 +86,7 @@ Der Veröffentlichungspflicht nach Satz 1 unterliegen auch die Unterlagen über 
 1. die Preisgabe der Informationen dem Wohl des Bundes, des Landes oder _der Gemeinde_ Nachteile bereiten würde,
 2. die begehrten Informationen nach einem Gesetz geheim gehalten werden müssen,
 3. durch die Bekanntgabe der Informationen die Durchführung eines anhängigen Gerichtsverfahrens, eines Strafverfahrens, eines Ordnungswidrigkeitenverfahrens, Disziplinarverfahrens, eines Verwaltungsverfahrens, der Anspruch einer Person auf ein faires Verfahren oder der Erfolg von bevorstehenden behördlichen Maßnahmen, von ordnungsbehördlichen Anordnungen oder Maßnahmen der Verwaltungsvollstreckung sowie die ordnungsgemäße Erfüllung der Aufgaben der betroffenen Behörde beeinträchtigt würde,
-4.durch die Veröffentlichung von Entwürfen von Entscheidungen sowie den Arbeiten und Beschlüssen für ihre unmittelbare Vorbereitung der Erfolg der behördlichen Entscheidung gefährdet wäre,
+4. durch die Veröffentlichung von Entwürfen von Entscheidungen sowie den Arbeiten und Beschlüssen für ihre unmittelbare Vorbereitung der Erfolg der behördlichen Entscheidung gefährdet wäre,
 5. es sich um Protokolle vertraulicher Beratungen handelt,
 6. sich der Inhalt der Information auf den Prozess der Willensbildung innerhalb von und zwischen öffentlichen Stellen bezieht,
 7. das Bekanntwerden des Inhalts der Information die Funktionsfähigkeit der Verwaltung _der Gemeinde_ beeinträchtigt oder
@@ -103,7 +103,7 @@ Wenn nur Teile der begehrten Information den Schutzbestimmungen nach dieser Satz
 
 (1) _Die Gemeinde_ bestellt eine Informationsfreiheitsbeauftragte oder einen Informationsfreiheitsbeauftragten. An die Informationsfreiheitsbeauftragte oder den Informationsfreiheitsbeauftragten kann sich jede Person wenden, die der Ansicht ist, dass ihre von dieser Satzung gewährten Rechte nicht oder nicht vollständig beachtet worden sind. Auf die Möglichkeit der Anrufung der oder des Informationsfreiheitsbeauftragten hat die nach § 4 Abs. 2 Satz 4 auskunftspflichtige Stelle hinzuweisen. Weitere Rechte der Person bleiben durch die Anrufung der oder des Informationsfreiheitsbeauftragten unberührt.
 
-(2) Im Fall des Abs. 1 Satz 2 hat die oder der Informationsfreiheitsbeauftragte das Recht sich direkt an _die erste Bürgermeisterin_ oder _den ersten Bürgermeister_ _der Gemeinde_ zu wenden. Sie oder er veröffentlicht über die Art und Weise der Umsetzung dieser Satzung einen Bericht. Gibt es in _der Gemeinde_ eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten, soll diese oder dieser mit der Aufgabe betraut werden.
+(2) Im Fall des Abs. 1 Satz 2 hat die oder der Informationsfreiheitsbeauftragte das Recht sich direkt an _die erste Bürgermeisterin_ oder _den ersten Bürgermeister_ zu wenden. Sie oder er veröffentlicht über die Art und Weise der Umsetzung dieser Satzung einen Bericht. Gibt es in _der Gemeinde_ eine Datenschutzbeauftragte oder einen Datenschutzbeauftragten, soll diese oder dieser mit der Aufgabe betraut werden.
 
 
 ## § 9 Verhältnis zu anderen Informationszugangsrechten {#andere}
